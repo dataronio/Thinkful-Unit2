@@ -2,7 +2,7 @@
 
 1. cntry - categorical
 
-2. idno - This is a LABEL variable, can be  considered categorical.  The difference is this is for database purposes rather than data attribute purposes.  A good website with this distinction is [here] (http://www-ist.massey.ac.nz/dstirlin/CAST/CAST/Hstructures/structures_b2.html).
+2. idno - This is a LABEL variable, can be  considered categorical.  The difference is this is for database purposes rather than data attribute purposes.  A good website with this distinction is [here](http://www-ist.massey.ac.nz/dstirlin/CAST/CAST/Hstructures/structures_b2.html)
 
 3. year - categorical - describes the round of the study.
 
