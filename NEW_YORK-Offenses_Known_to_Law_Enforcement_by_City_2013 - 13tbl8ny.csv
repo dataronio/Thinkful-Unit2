@@ -1,20 +1,4 @@
-Table 8,,,,,,,,,,,,
-NEW YORK,,,,,,,,,,,,
-Offenses Known to Law Enforcement,,,,, ,,,,,,,
-"by City, 2013",,,,,,,,,,,,
-City,Population,"Violent
-crime","Murder and
-nonnegligent
-manslaughter","Rape
-(revised
-definition)1","Rape
-(legacy
-definition)2",Robbery,"Aggravated
-assault","Property
-crime",Burglary,"Larceny-
-theft","Motor
-vehicle
-theft",Arson3
+"City","Population","Violentcrime","Murder","Raperevised","Rapelegacy","Robbery","Aggravatedassault","Propertycrime","Burglary","Larceny-theft","Motorvehicletheft","Arson3"
 Adams Village,"1,861",0,0,,0,0,0,12,2,10,0,0
 Addison Town and Village,"2,577",3,0,,0,0,3,24,3,20,1,0
 Akron Village,"2,846",3,0,,0,0,3,16,1,15,0,0
@@ -363,6 +347,3 @@ Woodridge Village,829,7,0,,0,0,7,17,8,9,0,0
 Woodstock Town,"5,931",2,0,,0,0,2,58,13,45,0,
 Yonkers,"199,134","1,036",6,,25,390,615,"2,368",470,"1,662",236,10
 Yorktown Town,"36,643",15,0,,0,2,13,334,45,287,2,
-1 The figures shown in this column for the offense of rape were reported using the revised Uniform Crime Reporting (UCR) definition of rape.  See Data Declaration for further explanation.,,,,,,,,,,,,
-2 The figures shown in this column for the offense of rape were reported using the legacy UCR definition of rape.  See Data Declaration for further explanation.,,,,,,,,,,,,
-3 The FBI does not publish arson data unless it receives data from either the agency or the state for all 12 months of the calendar year.,,,,,,,,,,,,
